@@ -32,6 +32,7 @@ The project uses multiple datasets including:
 
 # 🛠️ Technologies Used
 
+- Jupyter Notebook
 - Python
 - Pandas
 - Matplotlib
