@@ -68,7 +68,7 @@ The project uses multiple datasets including:
 
 This project is licensed under the MIT License.
 
-# # 👨‍💻 Author
+# 👨‍💻 Author
 Ruchita Kumbhare
 Kaggle - https://www.kaggle.com/code/ruchitakumbhare26  
 GitHub - https://github.com/Ruchita-k26
